@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/rK-PClvlgWM">
+  <a href="https://youtu.be/OaU2EBOcXmY">
     <img src="images/trailer_thumb.jpg" width="100%" alt="앨리스와 토끼 트레일러 (YouTube에서 보기)">
   </a>
 </p>
 
 <p align="center">
-  ▶ 이미지를 누르면 YouTube에서 트레일러를 볼 수 있습니다.
+  ▲ 이미지를 누르면 YouTube에서 트레일러를 볼 수 있습니다.
 </p>
 
 ---
