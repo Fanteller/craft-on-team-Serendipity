@@ -89,6 +89,57 @@
 
 ---
 
+## English
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> About
+
+> One day, Alice wakes up in ancient ruins with no memory of who she is.<br>
+> Before her stands a rabbit doll named Clock.<br>
+> Can the two of them find their way out?
+
+**Alice & Rabbit** is a **2D side-view boss-battle action game** where you play as Alice and master the art of the counter.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> Counter, then break them down
+
+The instant the boss's attack lands, answer it with a Smash.<br>
+A precise counter slows time and strikes the boss's weak point, staggering them.<br>
+Read the pattern, counter it, and press the advantage.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> A world drawn in pixels
+
+Every move Alice makes and every attack the boss throws is hand-drawn pixel art.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> Fall, and come back stronger
+
+Is the boss too strong? Don't worry.<br>
+Every attempt earns points you can spend on upgrades, so build your own loadout and try again.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> And gimmicks that defy your expectations
+
+The deeper the fight goes, the more the rules you thought you knew start to crumble.<br>
+When that moment comes, don't take your eyes off the screen.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> Controls
+
+The controls image above shows the keyboard and gamepad layouts. Key bindings can be changed in the in-game menu.
+
+### <img src="images/icon.png" width="28" align="absmiddle" alt=""> Download (English version)
+
+**[Download the English launcher: `AliceAndRabbit_Launcher_EN.exe`](https://github.com/Fanteller/craft-on-team-Serendipity/releases/latest/download/AliceAndRabbit_Launcher_EN.exe)**
+
+1. Download the launcher (`AliceAndRabbit_Launcher_EN.exe`) from the link above.
+2. Run it. The launcher installs itself and adds an **Alice & Rabbit** shortcut to your desktop and Start menu.
+3. In the launcher, press **Install** to download the latest version. When it finishes, press **Play**.
+
+- From then on, just open **Alice & Rabbit** from your desktop. When a new version is out, the launcher shows an **Update** button.
+- The English launcher starts the game in English. The Korean launcher (`AliceAndRabbit_Launcher.exe`) starts it in Korean. Both share the same game files.
+- Windows 10 / 11 (64-bit) only. Recommended resolution is FHD (1920×1080). Nothing else needs to be installed.
+- It installs to your user folder (`%LOCALAPPDATA%\Programs\Alice & Rabbit`), so it never asks for administrator rights.
+- If Windows SmartScreen shows a warning ("Windows protected your PC") on first run, click **More info → Run anyway**.
+- To uninstall, use Windows Settings > Apps > Alice & Rabbit, or the **Uninstall** button in the launcher. Your saves are kept.
+
+---
+
 <p align="center">
   © 2026 Team Serendipity
 </p>
