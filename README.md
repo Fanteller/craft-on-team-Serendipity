@@ -136,7 +136,7 @@ The controls image above shows the keyboard and gamepad layouts. Key bindings ca
 - Windows 10 / 11 (64-bit) only. Recommended resolution is FHD (1920×1080). Nothing else needs to be installed.
 - It installs to your user folder (`%LOCALAPPDATA%\Programs\Alice & Rabbit`), so it never asks for administrator rights.
 - If Windows SmartScreen shows a warning ("Windows protected your PC") on first run, click **More info → Run anyway**.
-- To uninstall, use Windows Settings > Apps > Alice & Rabbit, or the **Uninstall** button in the launcher. Your saves are kept.
+- To uninstall, use Windows Settings > Apps > Alice & Rabbit, or the **Remove** button in the launcher. Your saves are kept.
 
 ---
 
